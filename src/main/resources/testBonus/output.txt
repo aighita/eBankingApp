@@ -1,0 +1,3 @@
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1100.00"},{"currencyName":"EUR","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1000.00"},{"currencyName":"EUR","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"46.00"},{"currencyName":"EUR","amount":"600.00"}]}
